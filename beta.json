@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "*"
+        "OriginUrl": "http://myrelussamstack-s3bucket-1wkf4hixo7ej6.s3-website-us-west-2.amazonaws.com/"
     }
 }
